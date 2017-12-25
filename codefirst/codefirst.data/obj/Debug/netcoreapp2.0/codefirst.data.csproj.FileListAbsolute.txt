@@ -1,0 +1,8 @@
+E:\GitHub\codefirst\codefirst\codefirst.data\bin\Debug\netcoreapp2.0\codefirst.data.deps.json
+E:\GitHub\codefirst\codefirst\codefirst.data\bin\Debug\netcoreapp2.0\codefirst.data.runtimeconfig.json
+E:\GitHub\codefirst\codefirst\codefirst.data\bin\Debug\netcoreapp2.0\codefirst.data.runtimeconfig.dev.json
+E:\GitHub\codefirst\codefirst\codefirst.data\bin\Debug\netcoreapp2.0\codefirst.data.dll
+E:\GitHub\codefirst\codefirst\codefirst.data\obj\Debug\netcoreapp2.0\codefirst.data.csprojResolveAssemblyReference.cache
+E:\GitHub\codefirst\codefirst\codefirst.data\obj\Debug\netcoreapp2.0\codefirst.data.csproj.CoreCompileInputs.cache
+E:\GitHub\codefirst\codefirst\codefirst.data\obj\Debug\netcoreapp2.0\codefirst.data.AssemblyInfoInputs.cache
+E:\GitHub\codefirst\codefirst\codefirst.data\obj\Debug\netcoreapp2.0\codefirst.data.AssemblyInfo.cs

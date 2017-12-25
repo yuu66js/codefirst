@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  codefirst.model:
+    image: codefirst.model
+    build:
+      context: ./codefirst.model
+      dockerfile: Dockerfile
+
+  codefirst.data:
+    image: codefirst.data
+    build:
+      context: ./codefirst.data
+      dockerfile: Dockerfile
